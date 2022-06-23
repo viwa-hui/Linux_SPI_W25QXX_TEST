@@ -17,4 +17,4 @@
 
 W25Q32读取正确为 EF15
 
-![](file://C:\Users\rock_alvin\AppData\Roaming\marktext\images\2022-06-23-17-19-30-image.png?msec=1655975970078)
+![](https://github.com/viwa-hui/Linux_SPI_W25QXX_TEST/blob/main/spi-test.png)
